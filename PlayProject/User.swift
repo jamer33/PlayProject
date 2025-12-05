@@ -14,4 +14,5 @@ struct User: Codable {
     let email: String
     let gender: Int
     let birthDate: Int64?
+    let lastAccess: [Int64]
 }

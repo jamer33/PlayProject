@@ -1,0 +1,111 @@
+
+/* Class = "UITextField"; placeholder = "contraseña"; ObjectID = "2Bc-7b-KrX"; */
+"2Bc-7b-KrX.placeholder" = "contraseña";
+
+/* Class = "UIButton"; configuration.title = "Crear Nuevo Usuario"; ObjectID = "3Pd-gN-VIP"; */
+"3Pd-gN-VIP.configuration.title" = "Crear Nuevo Usuario";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3Pd-gN-VIP"; */
+"3Pd-gN-VIP.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Nombre de usuario"; ObjectID = "4Os-et-7Hs"; */
+"4Os-et-7Hs.placeholder" = "Nombre de usuario";
+
+/* Class = "UIButton"; configuration.title = "Google"; ObjectID = "6dh-cD-YS9"; */
+"6dh-cD-YS9.configuration.title" = "Google";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6dh-cD-YS9"; */
+"6dh-cD-YS9.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Sign In"; ObjectID = "6n7-Eq-HLC"; */
+"6n7-Eq-HLC.configuration.title" = "Sign In";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6n7-Eq-HLC"; */
+"6n7-Eq-HLC.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "usuario"; ObjectID = "8zl-Ui-ZaC"; */
+"8zl-Ui-ZaC.placeholder" = "usuario";
+
+/* Class = "UITextField"; placeholder = "Apellidos"; ObjectID = "9mf-Sp-0FL"; */
+"9mf-Sp-0FL.placeholder" = "Apellidos";
+
+/* Class = "UITextField"; text = "Password:"; ObjectID = "DEe-1C-GIM"; */
+"DEe-1C-GIM.text" = "Password:";
+
+/* Class = "UILabel"; text = "o accede con tu cuenta de:"; ObjectID = "Du3-n4-N8P"; */
+"Du3-n4-N8P.text" = "o accede con tu cuenta de:";
+
+/* Class = "UITextField"; text = "Apellidos"; ObjectID = "F9T-vf-Rnl"; */
+"F9T-vf-Rnl.text" = "Apellidos";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "Fco-DT-GGY"; */
+"Fco-DT-GGY.title" = "Item";
+
+/* Class = "UITextField"; text = "UserName:"; ObjectID = "IXG-eJ-wfz"; */
+"IXG-eJ-wfz.text" = "UserName:";
+
+/* Class = "UIButton"; configuration.title = "Apple"; ObjectID = "L3b-f2-Lko"; */
+"L3b-f2-Lko.configuration.title" = "Apple";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "L3b-f2-Lko"; */
+"L3b-f2-Lko.normalTitle" = "Button";
+
+/* Class = "UITextField"; text = "Perfil habitual"; ObjectID = "Laj-qD-bjf"; */
+"Laj-qD-bjf.text" = "Perfil habitual";
+
+/* Class = "UISegmentedControl"; MjK-X1-trR.segmentTitles[0] = "Leader (Chico)"; ObjectID = "MjK-X1-trR"; */
+"MjK-X1-trR.segmentTitles[0]" = "Leader (Chico)";
+
+/* Class = "UISegmentedControl"; MjK-X1-trR.segmentTitles[1] = "Follower (Chica)"; ObjectID = "MjK-X1-trR"; */
+"MjK-X1-trR.segmentTitles[1]" = "Follower (Chica)";
+
+/* Class = "UISegmentedControl"; MjK-X1-trR.segmentTitles[2] = "Variable"; ObjectID = "MjK-X1-trR"; */
+"MjK-X1-trR.segmentTitles[2]" = "Variable";
+
+/* Class = "UITextField"; placeholder = "correo electrónico"; ObjectID = "PE0-Kw-PAm"; */
+"PE0-Kw-PAm.placeholder" = "correo electrónico";
+
+/* Class = "UILabel"; text = "Tu último acceso al sistema fue:"; ObjectID = "QBC-U4-1Jr"; */
+"QBC-U4-1Jr.text" = "Tu último acceso al sistema fue:";
+
+/* Class = "UITextField"; text = "UserName:"; ObjectID = "cFj-ey-tAJ"; */
+"cFj-ey-tAJ.text" = "UserName:";
+
+/* Class = "UILabel"; text = "Bienvenido/a"; ObjectID = "crg-kX-6jq"; */
+"crg-kX-6jq.text" = "Bienvenido/a";
+
+/* Class = "UIButton"; configuration.title = "Crear Nuevo Usuario"; ObjectID = "dLS-77-DhN"; */
+"dLS-77-DhN.configuration.title" = "Crear Nuevo Usuario";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dLS-77-DhN"; */
+"dLS-77-DhN.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Control de acceso"; ObjectID = "g22-WY-MG2"; */
+"g22-WY-MG2.title" = "Control de acceso";
+
+/* Class = "UITextField"; placeholder = "contraseña"; ObjectID = "gFg-Z6-JP8"; */
+"gFg-Z6-JP8.placeholder" = "contraseña";
+
+/* Class = "UITextField"; text = "Datos personales"; ObjectID = "haH-Y1-CQb"; */
+"haH-Y1-CQb.text" = "Datos personales";
+
+/* Class = "UILabel"; text = "No hay registro"; ObjectID = "hhO-Un-y5T"; */
+"hhO-Un-y5T.text" = "No hay registro";
+
+/* Class = "UINavigationItem"; title = "Nueva Cuenta de Usuario"; ObjectID = "hs9-x4-6Kn"; */
+"hs9-x4-6Kn.title" = "Nueva Cuenta de Usuario";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "j8S-HD-ziY"; */
+"j8S-HD-ziY.title" = "Item";
+
+/* Class = "UITextField"; text = "Datos de Acceso"; ObjectID = "jCq-3V-RgV"; */
+"jCq-3V-RgV.text" = "Datos de Acceso";
+
+/* Class = "UITextField"; text = "Password:"; ObjectID = "qTJ-TI-6SV"; */
+"qTJ-TI-6SV.text" = "Password:";
+
+/* Class = "UITextField"; text = "Nombre "; ObjectID = "tQ9-KL-HC7"; */
+"tQ9-KL-HC7.text" = "Nombre ";
+
+/* Class = "UILabel"; text = "Fecha nacimiento"; ObjectID = "ydI-5B-uTF"; */
+"ydI-5B-uTF.text" = "Fecha nacimiento";

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6CA6B49F2EDDBABA00AE0C71 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 6CA6B49E2EDDBABA00AE0C71 /* FirebaseFirestore */; };
 		6CAF67212ECF22D90045DD11 /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = 6CAF67202ECF22D90045DD11 /* FirebaseAnalytics */; };
 		6CAF67232ECF22D90045DD11 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 6CAF67222ECF22D90045DD11 /* FirebaseAuth */; };
 /* End PBXBuildFile section */
@@ -43,6 +44,7 @@
 			files = (
 				6CAF67212ECF22D90045DD11 /* FirebaseAnalytics in Frameworks */,
 				6CAF67232ECF22D90045DD11 /* FirebaseAuth in Frameworks */,
+				6CA6B49F2EDDBABA00AE0C71 /* FirebaseFirestore in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -87,6 +89,7 @@
 			packageProductDependencies = (
 				6CAF67202ECF22D90045DD11 /* FirebaseAnalytics */,
 				6CAF67222ECF22D90045DD11 /* FirebaseAuth */,
+				6CA6B49E2EDDBABA00AE0C71 /* FirebaseFirestore */,
 			);
 			productName = PlayProject;
 			productReference = 6CAF67052ECF1C910045DD11 /* PlayProject.app */;
@@ -113,6 +116,7 @@
 			knownRegions = (
 				en,
 				Base,
+				es,
 			);
 			mainGroup = 6CAF66FC2ECF1C910045DD11;
 			minimizedProjectReferenceProxies = 1;
@@ -217,6 +221,7 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
@@ -280,6 +285,7 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
@@ -366,6 +372,11 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
+		6CA6B49E2EDDBABA00AE0C71 /* FirebaseFirestore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 6CAF671F2ECF22070045DD11 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseFirestore;
+		};
 		6CAF67202ECF22D90045DD11 /* FirebaseAnalytics */ = {
 			isa = XCSwiftPackageProductDependency;
 			package = 6CAF671F2ECF22070045DD11 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;

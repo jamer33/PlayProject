@@ -18,20 +18,6 @@ class MainViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
-    @IBAction func signUp(_ sender: Any) {
-        let email = usernameTextField.text ?? ""
-        let password = passwordTextField.text ?? ""
-        
-        Auth.auth().createUser(withEmail: email, password: password) { authResult, error in
-            if let error = error {
-                print(error.localizedDescription)
-                return
-            }
-            
-            print("User created account successfully")
-        }
-    }
     
     @IBAction func signIn(_ sender: Any) {
         let email = usernameTextField.text ?? ""
@@ -42,8 +28,11 @@ class MainViewController: UIViewController {
                 print(error.localizedDescription)
                 return
             }
+            let usuario = authResult?.user.uid
             
-            print("User signed in successfully")
+            print("User signed in successfully \(String(describing: usuario))")
+            self.performSegue(withIdentifier: "Navigate To Home", sender: usuario)
+            
         }
 
     }
